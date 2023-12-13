@@ -1,4 +1,4 @@
-laptop-price-predictor
+Laptop-price-predictor
 
 Dependecncies to install
 streamlit
