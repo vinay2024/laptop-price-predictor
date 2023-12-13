@@ -10,7 +10,7 @@ app.py contain the code of streamlit
 
 If you get these errors
 
-1. It will give an error if you'r using the lates version of scikit-learn. SO downgrade the version using pip install scikit-learn==1.2.2
+1. It will give an error if you'r using the latest version of scikit-learn. So downgrade the version using pip install scikit-learn==1.2.2
 
 2. If you get this error
 ModuleNotFoundError: No module named 'pandas.core.indexes.numeric'
